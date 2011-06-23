@@ -1,0 +1,43 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.68.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 997c0863b212625ccde54f352d2f7da49dddfe90 Changes
+SHA1 d3996c677e57f1092483da33cbdd67e53029cd9e MANIFEST
+SHA1 4de0c4f4d0f2a956ffa992369b3843d3cd2eb3df META.yml
+SHA1 edd7d7719bc4d93c801a9b088059a52856690552 Makefile.PL
+SHA1 074e73d7a024c1be42e9c3ef5d3c60e1b291cdd0 README
+SHA1 4aeb796b80177b5cae8e36131e257793f2aa315f README.mkdn
+SHA1 7b4ae50ebac72d20761171c4c2b50c206344ea40 inc/Module/Install.pm
+SHA1 d9fe55a427fe2fd75b5029afeeaa61b592e07f79 inc/Module/Install/Base.pm
+SHA1 62d3922826d9f89f20c185e7031ac8f028504745 inc/Module/Install/Can.pm
+SHA1 dc809f64fb70a26b069a36f8d3d353d520dbb7e1 inc/Module/Install/Fetch.pm
+SHA1 82e6709c1cdb488770cb21f6149a7f22913cd8c1 inc/Module/Install/GithubMeta.pm
+SHA1 73ab91490a628452cc140db72ef9d13a1326d211 inc/Module/Install/Makefile.pm
+SHA1 8ce3f2b414e4617e6233dd4ba10830f8c5d672ec inc/Module/Install/Metadata.pm
+SHA1 89337171760c0b2bb5f2c1745d97649dab2c24d1 inc/Module/Install/Package.pm
+SHA1 3b0acd2eeac93a0afe48120f5648f0db362e5bbf inc/Module/Install/Win32.pm
+SHA1 f08924f051e623f8e09fa6a121993c4a9cf7d9eb inc/Module/Install/WriteAll.pm
+SHA1 61e30896d22bd0d1c5de93c3eccb01e32acc727d inc/Module/Package.pm
+SHA1 ccb48d3fec5ef96403f50b13eec529ce10961c02 inc/Pod/Markdown.pm
+SHA1 c32caa98771bab6f37423bbb9fd14d50405d8e93 lib/Plack/Middleware/SizeLimit.pm
+SHA1 41afe2c04bb573b40e283e2b210ed70a47a3f8ba t/0-signature.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (Darwin)
+
+iEYEARECAAYFAk4DBlYACgkQtLPdNzw1AaBy+ACfVPSEXIvdk9k7g8KmVvdGlKnD
+3vEAnRbI7VF/zt5wgUYJqp7O1Nf75Azw
+=vFoi
+-----END PGP SIGNATURE-----
