@@ -14,30 +14,30 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 f7719d0608ff118ab12cd7d576246fac4eea59d9 Changes
+SHA1 624e47532777577ac9c9bc0e5ec929410184cbb9 Changes
 SHA1 d3996c677e57f1092483da33cbdd67e53029cd9e MANIFEST
-SHA1 ef2d8f17f4c85661bbebaf47fb3d1f179e2c044f META.yml
+SHA1 fc303426956193715b7222e34c57b8af68f837fb META.yml
 SHA1 edd7d7719bc4d93c801a9b088059a52856690552 Makefile.PL
 SHA1 b123ac048ea13dc2065e00c205b2ead192747d73 README
-SHA1 b8cd6a98522489ac01710ba0a13b4dbfd05069ce README.mkdn
-SHA1 7ba8556ded0e1b8465b2ebe703e073b416d454d7 inc/Module/Install.pm
-SHA1 69a3a256888658cbbe0164171744838e53dc06e3 inc/Module/Install/Base.pm
-SHA1 17be8c56d695ed14cf77e37542438a5eebf1c9e1 inc/Module/Install/Can.pm
-SHA1 b842371af51441beb020ce37349f96123841f684 inc/Module/Install/Fetch.pm
-SHA1 82e6709c1cdb488770cb21f6149a7f22913cd8c1 inc/Module/Install/GithubMeta.pm
-SHA1 474ff5d11d1dd3327487f13d44d3c7b3945050a8 inc/Module/Install/Makefile.pm
-SHA1 fdf68f7c27a463011640b0739299834a65268056 inc/Module/Install/Metadata.pm
-SHA1 a815f14e3aeaa8c6f5f318cda7a2fb431b462780 inc/Module/Install/Package.pm
-SHA1 fe19e1641d3642424ba4088909e0f2e05747c76f inc/Module/Install/Win32.pm
-SHA1 b71a7355e7c74219f0d24aedf057121981ff0f95 inc/Module/Install/WriteAll.pm
-SHA1 5011127553463730d768e68ac9765d28d21490b1 inc/Module/Package.pm
-SHA1 ccb48d3fec5ef96403f50b13eec529ce10961c02 inc/Pod/Markdown.pm
-SHA1 b33c55bcc7e3030bba13c240d870613f79c852be lib/Plack/Middleware/SizeLimit.pm
+SHA1 711dbb95a2a8899636a1418339bb0943eaf846a6 README.mkdn
+SHA1 8a924add836b60fb23b25c8506d45945e02f42f4 inc/Module/Install.pm
+SHA1 2d0fad3bf255f8c1e7e1e34eafccc4f595603ddc inc/Module/Install/Base.pm
+SHA1 f0e01fff7d73cd145fbf22331579918d4628ddb0 inc/Module/Install/Can.pm
+SHA1 7328966e4fda0c8451a6d3850704da0b84ac1540 inc/Module/Install/Fetch.pm
+SHA1 27ffe05bb181a2ddd79c4846ed29950896459f39 inc/Module/Install/GithubMeta.pm
+SHA1 b62ca5e2d58fa66766ccf4d64574f9e1a2250b34 inc/Module/Install/Makefile.pm
+SHA1 1aa925be410bb3bfcd84a16985921f66073cc1d2 inc/Module/Install/Metadata.pm
+SHA1 3b9281ddf7dd6d6f5de0a9642c69333023193c80 inc/Module/Install/Package.pm
+SHA1 e4196994fa75e98bdfa2be0bdeeffef66de88171 inc/Module/Install/Win32.pm
+SHA1 c3a6d0d5b84feb3280622e9599e86247d58b0d18 inc/Module/Install/WriteAll.pm
+SHA1 26d58a041cd6b3d21db98b32e8fd1841aae21204 inc/Module/Package.pm
+SHA1 43e39b144c19dd9b760b4aaa0cc0d922fc07ed6c inc/Pod/Markdown.pm
+SHA1 0158142ee3a011b26e2b78f160a08e5ce8905bef lib/Plack/Middleware/SizeLimit.pm
 SHA1 41afe2c04bb573b40e283e2b210ed70a47a3f8ba t/0-signature.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.11 (Darwin)
+Version: GnuPG v1.4.12 (Darwin)
 
-iEYEARECAAYFAk9x2A4ACgkQtLPdNzw1AaBRNACfb5Kx1SPAfOs50PYnTr81Ek9X
-fTIAn0TTpQyv8OUeJuFrLEiksyAlz88O
-=PZzv
+iEYEARECAAYFAlCD/3YACgkQtLPdNzw1AaD4cwCeJaVly17qpE5s3ErffiFtE/3D
+KYoAoL2oUBPUnmLMjr8tCqi3V0A/lA2u
+=8bDR
 -----END PGP SIGNATURE-----
